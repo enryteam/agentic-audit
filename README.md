@@ -1,7 +1,7 @@
 # AI审计智能体应用平台 - AgenticAudit
 
 > 将重复性工作交给AI，让专业人士回归本质价值
-> AgenticAudit 致力于成为审计专家的智能 Copilot
+> AgenticAudit 致力于成为审计专家的智能 Copilot 
 
 ## 系统即将正式开源，敬请关注 
 **产品官网**：[https://zunchuang.tech/agentic-audit/index.html](https://zunchuang.tech/agentic-audit/index.html)
