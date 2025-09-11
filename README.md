@@ -1,4 +1,4 @@
-# AI审计智能体应用平台 - AgenticAudit
+# 企业级AI审计智能体 - AgenticAudit
 
 > 将重复性工作交给AI，让专业人士回归本质价值
 > AgenticAudit 致力于成为审计专家的智能 Copilot 
